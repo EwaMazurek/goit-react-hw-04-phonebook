@@ -1,0 +1,10 @@
+.list {
+  padding: 10px;
+}
+.list li {
+  padding-bottom: 10px;
+}
+
+.list button {
+  margin-left: 10px;
+}
